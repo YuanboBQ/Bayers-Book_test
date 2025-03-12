@@ -1,0 +1,25 @@
+.Rproj.user
+.Rhistory
+.Rdata
+.httr-oauth
+.DS_Store
+
+# Website-specific files
+data_files/
+*_class.*
+*_class_files/
+
+# exams files
+exams/
+
+# supplemental files
+supplemental/
+
+# chapters files
+
+chapters/
+
+# Compiled Stan files
+stan/*.rds
+_site/stan/*.rds
+/.quarto/
